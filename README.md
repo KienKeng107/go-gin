@@ -14,6 +14,11 @@
 6. Install JWT package: https://github.com/golang-jwt/jwt
 7. Install bcrypt package: https://pkg.go.dev/golang.org/x/crypto/bcrypt
 
+## Installation
+```bash
+go mod download
+```
+
 ### How to run locally
 ```bash
 CompileDaemon -command="./{your-project-folder-name}"
