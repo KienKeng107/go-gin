@@ -1,6 +1,10 @@
 # CRUD USING GIN Framework
 - A project with CRUD operations using the GIN framework, designed for individuals who wish to explore GIN and understand its functionality
 
+## Functionalities: 
+ - Signup, Signin (JWT Authentication)
+ - CRUD
+
 # Prerequisite
 1. Install Golang: https://go.dev/doc/gopath_code
 2. Install Gin framework : https://gin-gonic.com/docs/quickstart/
