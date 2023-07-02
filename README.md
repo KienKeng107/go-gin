@@ -7,6 +7,8 @@
 3. Install Gorm: https://gorm.io/docs/update.html
 4. Install godotenv : https://github.com/joho/godotenv
 5. Install Compile Daemon for Go : https://github.com/githubnemo/CompileDaemon
+6. Install JWT package: https://github.com/golang-jwt/jwt
+7. Install bcrypt package: https://pkg.go.dev/golang.org/x/crypto/bcrypt
 
 ### How to run locally
 ```bash
